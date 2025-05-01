@@ -1,0 +1,1 @@
+pages/, next.config.js
